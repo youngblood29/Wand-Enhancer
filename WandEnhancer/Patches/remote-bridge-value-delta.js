@@ -1,1 +1,0 @@
-this.__wandRemoteBridge?.valueChanged({trainerId:__wandRemoteTrainerId,target:${change}.name,value:${change}.value,oldValue:${change}.oldValue,source:String(${change}.source??"desktop"),cheatId:${change}.cheatId});

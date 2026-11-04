@@ -1,1 +1,0 @@
-const __wandRemoteTrainerId=${trainerId};
